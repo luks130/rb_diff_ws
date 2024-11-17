@@ -1,0 +1,56 @@
+[0.009s] Invoking command in '/home/lucas/rb_diff_ws/build/rb_diff': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/lucas/rb_diff_ws/build/rb_diff -- -j8 -l8
+[0.037s] Invoked command in '/home/lucas/rb_diff_ws/build/rb_diff' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/lucas/rb_diff_ws/build/rb_diff -- -j8 -l8
+[0.058s] Invoking command in '/home/lucas/rb_diff_ws/build/rb_diff': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/lucas/rb_diff_ws/build/rb_diff
+[0.064s] -- Install configuration: ""
+[0.064s] -- Execute custom install script
+[0.064s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/config/ball_tracker_params_robot.yaml
+[0.064s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/config/ball_tracker_params_sim.yaml
+[0.064s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/config/drive_bot.rviz
+[0.064s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/config/empty.yaml
+[0.065s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/config/gaz_ros2_ctl_use_sim.yaml
+[0.065s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/config/gazebo_params.yaml
+[0.065s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/config/joystick.yaml
+[0.065s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/config/main.rviz
+[0.065s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/config/map.rviz
+[0.065s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/config/mapper_params_online_async.yaml
+[0.065s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/config/my_controllers.yaml
+[0.065s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/config/nav2_params.yaml
+[0.065s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/config/twist_mux.yaml
+[0.065s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/config/view_bot.rviz
+[0.065s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/description/camera.xacro
+[0.066s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/description/depth_camera.xacro
+[0.066s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/description/face.xacro
+[0.066s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/description/gazebo_control.xacro
+[0.066s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/description/inertial_macros.xacro
+[0.066s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/description/lidar.xacro
+[0.066s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/description/robot.urdf.xacro
+[0.066s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/description/robot_core.xacro
+[0.066s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/description/ros2_control.xacro
+[0.066s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/launch/ball_tracker.launch.py
+[0.066s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/launch/camera.launch.py
+[0.067s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/launch/joystick.launch.py
+[0.067s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/launch/launch_robot.launch.py
+[0.067s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/launch/launch_sim.launch.py
+[0.067s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/launch/localization_launch.py
+[0.067s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/launch/navigation_launch.py
+[0.067s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/launch/online_async_launch.py
+[0.067s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/launch/rplidar.launch.py
+[0.067s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/launch/rsp.launch.py
+[0.067s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/worlds/empty.world
+[0.067s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/worlds/obstacles.world
+[0.068s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/ament_index/resource_index/package_run_dependencies/rb_diff
+[0.068s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/ament_index/resource_index/parent_prefix_path/rb_diff
+[0.068s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/environment/ament_prefix_path.sh
+[0.068s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/environment/ament_prefix_path.dsv
+[0.068s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/environment/path.sh
+[0.068s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/environment/path.dsv
+[0.069s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/local_setup.bash
+[0.069s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/local_setup.sh
+[0.069s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/local_setup.zsh
+[0.069s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/local_setup.dsv
+[0.069s] -- Symlinking: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/package.dsv
+[0.075s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/ament_index/resource_index/packages/rb_diff
+[0.075s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/cmake/rb_diffConfig.cmake
+[0.075s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/cmake/rb_diffConfig-version.cmake
+[0.075s] -- Up-to-date symlink: /home/lucas/rb_diff_ws/install/rb_diff/share/rb_diff/package.xml
+[0.077s] Invoked command in '/home/lucas/rb_diff_ws/build/rb_diff' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/lucas/rb_diff_ws/build/rb_diff
